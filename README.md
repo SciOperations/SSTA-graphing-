@@ -9,3 +9,8 @@ numpy,
 matplotlib,
 netCDF4,
 tkinter (should be installed with the Python application with the latest version)
+
+NetCDF data can be downloaded from here: https://psl.noaa.gov/thredds/catalog/Datasets/noaa.oisst.v2.highres/catalog.html.
+Choose sst.day.anom.[Year].nc
+
+
